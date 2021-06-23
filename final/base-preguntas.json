@@ -1,0 +1,12 @@
+[
+    {
+        "categoria": "Conocimiento general",
+        "pregunta": "¿Ques es JAVASCRIPT?",
+        "respuesta": "Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.",
+        "incorrecta1": "En ser aplicaciones independientes (que corren en una ventana propia)",
+        "incorrecta2": "Es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente ",
+        "incorrecta3": "Language (‘lenguaje de marcado de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web",
+        "imagen": "https://i.ibb.co/PNpVJR3/java.png",
+        "objectFit": "cover"
+    }
+]
